@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The loyal subjects teares, for the sufferings and absence of their sovereign, Charles II. King of England, Scotland &amp; Ireland. With an observation upon the expunging of exit tyrannas regum ultimus, by order of General Monk. And some advice to the Independents, Anabaptists, Phanatiques, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88633</idno><idno type="EEBO-CITATION">99867066</idno>
+  <idno type="VID">119356</idno>
+  <idno type="EEBO-PROQUEST">2240935443</idno>
+  
+            <idno type="STC">Wing L3374</idno>
+            <idno type="STC">Thomason E1017_29</idno>
+            <idno type="STC">ESTC R208065</idno>
+            <idno type="PROQUEST">99867066</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867066e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The loyal subjects teares, for the sufferings and absence of their sovereign, Charles II. King of England, Scotland &amp; Ireland. With an observation upon the expunging of exit tyrannas regum ultimus, by order of General Monk. And some advice to the Independents, Anabaptists, Phanatiques, &amp;c.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles King,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Marsh. 21. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term type="topical_term">Religion and politics --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119356:1"/>
+            <p>The Loyal Subjects TEARES, For the Sufferings and Absence of their SOVEREIGN, CHARLES II.</p>
+            <p>King of <hi>England, Scotland</hi> &amp; <hi>Ireland.</hi>
+            </p>
+            <p>With an Observation upon the expunging of <hi>Exit Tyrannas Regum Ʋitimus,</hi>
+               <lb/> By Order of General Monk.</p>
+            <p>AND Some Advice to the <hi>Independents, Anabaptists, Phanatiques, &amp;c.</hi>
+            </p>
+            <q xml:lang="lat">Regi qui perfidus, nulli fidus.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Charles King.</hi> 1660. <add>March .31. 1659</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119356:2"/>
+            <pb n="3" facs="tcp:119356:2"/>
+            <head>The Loyal Subjects TEARES, For the Sufferings and Absence of their SOVEREIGN, CHARLES II.</head>
+            <p>SOvereignty, as it should imprint a Reverence in our hearts, so should it (if any ways ecclip<g ref="char:EOLhyphen"/>sed) beget a Tear in our eyes. We have a King, and we must acknowledge him, other<g ref="char:EOLhyphen"/>wise we are not worthy to live under him, but where is the King? can he command himself? is he not a Subject to his subjects, the scorn of Rebels and Traitors, the contempt of haeretical Factions, and in stead of being admitted the Preserver of our Religion, Lawes and Liberties, his Authority is null and void, his Power's restrained, his person secluded and disho<g ref="char:EOLhyphen"/>nored, nothing left un essayed that may get in his Sub<g ref="char:EOLhyphen"/>jects a dis-esteem, or to his own person an immerited disgrace, contrary to the Solemn League and Cove<g ref="char:EOLhyphen"/>nant, Protestations, and Oath of Allegiance promised to the Posterity?</p>
+            <pb n="4" facs="tcp:119356:3"/>
+            <p> The consideration whereof cannot chuse but draw distilling Tears from all true Subjects eyes, with this further Consideration, that these unlawful proceed<g ref="char:EOLhyphen"/>ings have occasioned our too too many Alterations and Revolutions, to be scourges for the Miscarriages of the Nation, with this additional Conclusion, that the Murther of his Sacred Majesty hath drawn down Vengeance upon our heads, to the loss of thousands of precious lives, the decay and ruine of Trade both For<g ref="char:EOLhyphen"/>rein and Domestick, rendring us odious and prodigi<g ref="char:EOLhyphen"/>ous to all Strangers, and hypocritical to each other, and the impenitent perseverance therein (in persecu<g ref="char:EOLhyphen"/>ting our right and lawful Prince) will indubitably con<g ref="char:EOLhyphen"/>tinue the Curse of God to us and our Posterity, if Providence did not seem to check these Exorbitan<g ref="char:EOLhyphen"/>cies after a long tract of time, by causing the Right Honorable, and Ever-noble General <hi>Monck,</hi> to be a happy Instrument in carrying on (without bloodshed) the desired Returns to our due Obedience, and of hard-hearted and implacable Rebels, to become pa<g ref="char:EOLhyphen"/>tient and loving Subjects; who (to his everlasting Memory let it be recorded) ordered that abominable Superscription of <hi>EXIT TYRANNUS</hi> as a Ca<g ref="char:EOLhyphen"/>pital offender to be expunged, to the rejoicing of all the rich and noble Merchants of the City of <hi>London,</hi> with the addition of a stately bone fite at their charge the whole night ensuing. Does not this adde joy to the happy Union betwixt <hi>France</hi> and <hi>Spain?</hi> and hopes to re instate our Sovereign? who questionless would take it far more kindly from his Subjects, and no que<g ref="char:EOLhyphen"/>stion shew pity and compassion upon the possession of his Fathers Crowns; to all the forrowful and seduced
+<pb n="5" facs="tcp:119356:3"/>upon their return to due Obedience, and meet them with Olive branches, those Emblemes of Victory, Peace and Mercy, and rejoyce with such as are sensible that the Happiness of the People lies not in the alte<g ref="char:EOLhyphen"/>ration of the mode, but men, people being again and again blest, as to heaven and earth, spiritual and tem<g ref="char:EOLhyphen"/>poral, under Kings and Queens</p>
+            <p>I desire not to promote Differences, therefore none shall extract from me the least syllable of passion, be<g ref="char:EOLhyphen"/>ing rather desirous to bring water than oyl to the flame that is kindled. We cannot chuse but receive a sen<g ref="char:EOLhyphen"/>sible resentment of his present Sufferings, and of his present Condition, though the Fact be others, our connivance would make the fault ours, who have had cause a long time to repent of the Oppression and Sla<g ref="char:EOLhyphen"/>very we were brought to, by opposing and abusing so patient, so gracious, so merciful, so just, so pious a Prince, and embracing unnatural and bloody Wars, abandoning and overthrowing all Order Ecclesiastical and Civil, and subjugating our selves and Posterity to the unsupportable yoke of Arbitrary and Tyrannical Government, which hath been evidenc'd of late years by the general Distempers, Murmurings, Heart-burn<g ref="char:EOLhyphen"/>ings, continual Plottings and Insurrections, crying out for Peace, but pursuing War; quarrelling for Liberty, and Freedom, while we pursue Arbitration and the Power of the Sword. See the depravity of our nature, and the perv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rseness of out own wills! we row one way, and look another: cruel men, beastly men, who glory in their own destruction, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ignifying the instru<g ref="char:EOLhyphen"/>ments of ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own ruine, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>words, Pistols, and Instru<g ref="char:EOLhyphen"/>ments of War (those constant Associates) before a
+<pb n="6" facs="tcp:119356:4"/>Generous and High-born Prince of Peace, environed with true-hearted Subjects.</p>
+            <p>Before I draw to a Conclusion, I shall a little reflect upon the Politick Actors of this Age, who upon all oc<g ref="char:EOLhyphen"/>casions of Advantages have their Religion to chuse, and under pretence of seeking the Kingdom of God have got the Riches of the Kingdom into their posses<g ref="char:EOLhyphen"/>sion, <hi>viz.</hi> Independents, Anabaptists, Phanatiques, <hi>&amp;c.</hi> and are therefore afraid lest Justice should overtake them with his iron hands, for disloyalty and treache<g ref="char:EOLhyphen"/>ry, having for these fifteen years and more, appeared the true Copies of those Italian Pictures, that present a Devil on the one side, and a Saint on the other, pre<g ref="char:EOLhyphen"/>tending to Sanctity like a Fiend re-vers't, or the De<g ref="char:EOLhyphen"/>vil turn'd the best side outward, laid down in seven several Considerations.</p>
+            <p n="1">I. Leave off your fomenting (and fall to pacifying) divisions, and conclude (among your selves) with others, that one body with an absolute head, will more easily be kept in unity and concord, then many thousand bodies that have every one a head that is absolute.</p>
+            <p n="2">II. Render not your selves (like Caterpillers that de<g ref="char:EOLhyphen"/>vour every green thing in the Land) greedy to suck the blood of the Nobles and Subjects, raising and enriching your selves by their ruines, out-going in ra<g ref="char:EOLhyphen"/>pine and cruelty the <hi>Star-Chamber, High-Commis<g ref="char:EOLhyphen"/>sion,</hi> &amp;c.</p>
+            <p n="3">III. Leave off separating your selves from the Church, ha<g ref="char:EOLhyphen"/>ving no warrant for what you do out of the Word of God.</p>
+            <p n="4">
+               <pb n="7" facs="tcp:119356:4"/> IV. Know that Government by blood, is not by Law of Nature or Divine; Force and faction being ground whereon God builds no stable structures, but on the contrary sandy foundations.</p>
+            <p n="5">V. Remember that honest Intentions are insufficient pleas for irregular Actions; it being no good divinity in St. <hi>Pauls</hi> time for any to say, <hi>Let us do good, that evil may come on't,</hi> and confess (without offence) with St. <hi>Austin, Ferenda est magis omnis Necessitas, quam perpetranda est aliqua iniquitas.</hi>
+            </p>
+            <p n="6">VI. Do not imitate the irregular Practice among the <hi>A<g ref="char:EOLhyphen"/>thenians,</hi> who had as many religions as Pastors, and every one to frame his religion according to his own Idaea and fancy, but extirpate such destructive princi<g ref="char:EOLhyphen"/>ples root and branch.</p>
+            <p n="7">VII. Lastly, consider that Humility and Self-denyal are the two fairest flowers of the Christian Garland, and to convince his Gracious Majesty of your true repent<g ref="char:EOLhyphen"/>ance for your former obstinacies, rebellion to his Fa<g ref="char:EOLhyphen"/>ther, and real return to Himself, prostrate your selves and families at his foot-stool, present your Petitions, intreat his Pardon, who is more ready to forgive, than you to ask; and say with the Loyal Subject,</p>
+            <closer>God save King <hi>Charles II.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
